@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ngaam-key",
+  "description": "Imported from GitHub: dre3468h/ngaam-key",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
